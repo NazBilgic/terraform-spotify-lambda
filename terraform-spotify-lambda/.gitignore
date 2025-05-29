@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment variables
+.env
+
+# Lambda build artifacts
+lambda/__pycache__/
+lambda/*.dist-info/
+lambda/*.egg-info/
+lambda/requests/
+lambda/urllib3/
+lambda/chardet/
+lambda/idna/
+lambda/certifi/
+lambda_package.zip
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Terraform
+terraform/.terraform/
+terraform/terraform.tfstate*
+terraform/terraform.tfvars
+
+# Zip packages
+*.zip
+
+# Sensitive script
+get_refresh_token.py
