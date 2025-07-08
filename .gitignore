@@ -3,3 +3,4 @@ get_refresh_token.py
 *.tfstate
 *.tfstate.backup
 .terraform/
+.DS_Store
