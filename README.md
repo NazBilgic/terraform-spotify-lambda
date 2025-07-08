@@ -162,4 +162,5 @@ get_refresh_token.py
 This project was built to explore serverless automation and cloud-native workflows.  
 Feel free to fork it, improve it, or use it as a base for your own Spotify integrations.
 
-_Project folder renamed locally for clarity_
+_Updated structure_
+
